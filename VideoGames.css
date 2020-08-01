@@ -1,0 +1,40 @@
+body, html{
+    background-color: greenyellow;
+}
+
+header{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size:50px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-size:40px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+p{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 30px;
+}
+ul{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 30px;
+}
+
+
+div.absolute {
+    position: absolute;
+    bottom: 10px;
+    width: 50%;
+    border: 3px solid #8AC007;
+  }
+
+  a{
+      font-family:sans-serif;
+      font-size: 30px;
+  }
